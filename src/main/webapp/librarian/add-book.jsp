@@ -90,7 +90,7 @@
 
 <div class="container">
     <div class="top-nav">
-        <a href="dashboard.jsp">🏠 Dashboard</a>
+        <a href="librarian/dashboard.jsp">🏠 Dashboard</a>
     </div>
 
     <h2>Add New Book</h2>

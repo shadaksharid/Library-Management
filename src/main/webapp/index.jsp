@@ -101,7 +101,7 @@
             Members can search and borrow books, view their borrowing history, and return books seamlessly — all from one place.
         </p>
         <div class="btn-container">
-            <a href="register.jsp" class="btn">Register</a>
+            <a href="registration.jsp" class="btn">Register</a>
             <a href="login.jsp" class="btn">Login</a>
         </div>
     </section>
