@@ -42,12 +42,19 @@ A full-featured Library Management System built using **Java Servlets**, **JSP**
 /Library-Management-System
 │
 ├── src/com/library/ # Java source files (Servlets, DAO, Models)
+
 ├── WebContent/ # Web resources (JSPs, CSS, Images)
+
 │ ├── admin/ # Admin JSPs
+
 │ ├── librarian/ # Librarian JSPs
+
 │ ├── member/ # Member JSPs
+
 │ ├── uploads/ # Book cover uploads
+
 │ └── css/ # Custom CSS files
+
 ├── sql/library_db.sql # Database schema & sample data
 
 ## 🗃️ Database Setup
@@ -64,11 +71,17 @@ private static final String PASS = "your_db_password";
 How to Run
 
    1 Clone the repository:
+   
        git clone https://github.com/your-username/library-management-system.git
+       
    2 Import the project into Eclipse / IntelliJ as Dynamic Web Project or Maven Project.
+   
    3 Set up the Tomcat server in your IDE.
+   
    4 Deploy the project to Tomcat.
+   
    5 Access via browser:
+   
        http://localhost:8080/Library-Management-System/
 
 
